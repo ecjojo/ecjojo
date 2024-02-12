@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=ecjojo&style=for-the-badge)
 [![Twitter][twitter-shield]][twitter-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url] 
