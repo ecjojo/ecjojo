@@ -1,13 +1,16 @@
-![](https://komarev.com/ghpvc/?username=ecjojo&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ecjojo&style=for-the-badge&color=green&abbreviated=true)
 [![Twitter][twitter-shield]][twitter-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url] 
 
-![snake animation](https://github.com/ecjojo/ecjojo/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div>
+  <a href="https://github.com/ecjojo">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecjojo&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecjojo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
-[![ecjojo’s github stats](https://github-readme-stats.vercel.app/api?username=ecjojo)](https://github.com/ecjojo)
-
-## ComfyUI Guide & Templates
+### ComfyUI Guide & Workflow Templates
 [![Patreon][patreon-shield]][patreon-url] 
 [![Buymeacoffee][buymeacoffee-shield]][buymeacoffee-url] 
 
@@ -20,5 +23,7 @@
 [discord-url]: https://discord.gg/qxQMyjkcqE
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/ecjojo_ai
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/ec-j-0095a952/
+
+
