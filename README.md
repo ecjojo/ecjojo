@@ -2,12 +2,16 @@
 [![Twitter][twitter-shield]][twitter-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url] 
-
  
- <div>
-  <a href="https://github.com/ecjojo">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecjojo&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecjojo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecjojo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecjojo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ### ComfyUI Guide & Workflow Templates
