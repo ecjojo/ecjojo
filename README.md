@@ -3,7 +3,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url] 
 
-# [➭ ec lab page](https://ecjojo.github.io/)
+# [➭ about me](https://ecjojo.github.io/)
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake-dark.svg">
