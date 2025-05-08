@@ -6,10 +6,13 @@
 
 
 # About Me
-👩‍💻 Hello, I'm ecjojo. I'm currently advising businesses on the integration of the GenAI tool and designing __ComfyUI Workflow__ into their development processes, leveraging its capabilities to enhance efficiency and drive innovation within their projects.
+👋 Hi! I'm ecjojo, a full-time indie game developer who loves turning ideas into interactive experiences.
 
-I am passionate about various forms of creative mediums, from writing, art, and audio to programming. Before embarking on my journey with GenAI, I specialized in __Unity Game Development__ with a background in Graphic Design, Interior Design, and 3D modeling.
+I’m passionate about all kinds of creative work — from storytelling and art to audio, design, and code. Before going indie, I worked with businesses to integrate GenAI tools and design ComfyUI workflows, helping teams unlock new creative possibilities and build faster, smarter pipelines.
 
+My background includes Unity game development, graphic design, interior design, and 3D modeling, which basically means I enjoy mixing the technical with the artistic, and sometimes making very odd prototypes just to see what happens.
+
+If you're into creative chaos, strange ideas, or talking about workflows for hours — we’ll probably get along just fine. 😊
 https://ecjojo.github.io/
  
 <picture>
