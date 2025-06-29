@@ -39,7 +39,7 @@ https://ecjojo.github.io/
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.gg/qxQMyjkcqE
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/ecjojo_ai
+[twitter-url]: https://twitter.com/ecjojoDEV
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/ecjojo/
 
