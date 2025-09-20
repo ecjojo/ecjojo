@@ -4,10 +4,7 @@
  [![Discord][discord-shield]][discord-url]
 
 
-#### ecjojo | Game Developer & ComfyUI Workflow Consultant
-Blending storytelling, art, and code into unique interactive experiences. 
-Skilled in Unity development, ComfyUI workflow design, and cross-disciplinary creativity — turning wild ideas into playable worlds.
-
+#### ecjojo | Game Developer & ComfyUI Workflow
 
 https://ecjojo.github.io/
  
