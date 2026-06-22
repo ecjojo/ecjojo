@@ -3,10 +3,10 @@
 
 #### ecjojo | GenAI & GameDev
 
-GenAI Product Consultant
-• End-to-end delivery: ComfyUI workflows → Model Training → Prompt Design → API & Deployment
-• Collaborated with 5 companies: MoshiMoshAI, Avatech, ComfyDeploy, Mighty Bear Games, Funtown 
-• Built a ComfyUI / GenAI Learning Community (600+ members)
+##### GenAI Product Consultant
+
+##### • End-to-end delivery: ComfyUI workflows → Model Training → Prompt Design → API & Deployment
+##### • Collaborated with 5 companies / Built a GenAI Learning Community (2000+ members)
 
 https://ecjojo.github.io/
  
