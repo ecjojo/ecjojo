@@ -3,6 +3,11 @@
 
 #### ecjojo | GenAI & GameDev
 
+GenAI Product Consultant
+• End-to-end delivery: ComfyUI workflows → Model Training → Prompt Design → API & Deployment
+• Collaborated with 5 companies: MoshiMoshAI, Avatech, ComfyDeploy, Mighty Bear Games, Funtown 
+• Built a ComfyUI / GenAI Learning Community (600+ members)
+
 https://ecjojo.github.io/
  
 <picture>
@@ -10,12 +15,12 @@ https://ecjojo.github.io/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ecjojo/ecjojo/output/github-contribution-grid-snake.svg">
 </picture>
-
-#### Work with me
- [![LinkedIn][linkedin-shield]][linkedin-url]
  
 #### Support me on Patreon
 [![Patreon][patreon-shield]][patreondev-url]
+
+#### Work with me
+ [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [patreon-shield]: https://img.shields.io/badge/-Patreon-black.svg?style=for-the-badge&logo=patreon&colorB=555
 [patreondev-url]: https://www.patreon.com/cw/ecjojoDev
