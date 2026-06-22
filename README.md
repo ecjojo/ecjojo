@@ -14,7 +14,7 @@ https://ecjojo.github.io/
 #### Work with me
  [![LinkedIn][linkedin-shield]][linkedin-url]
  
-#### Patreon
+#### Support me on Patreon
 [![Patreon][patreon-shield]][patreondev-url]
 
 [patreon-shield]: https://img.shields.io/badge/-Patreon-black.svg?style=for-the-badge&logo=patreon&colorB=555
